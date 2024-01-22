@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Music is amazing. It has always taken me to a different place. This site 
   explores music in a way that I never have previously...understanding its 
   lyrics.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lyrics" # the subpath of your site, e.g. /blog
 permalink: pretty
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://schmidtted.github.io/lyrics" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  schmidtted
 excerpt_separator: <!--more-->
