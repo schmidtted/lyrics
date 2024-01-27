@@ -3,7 +3,7 @@ layout: post
 title: "The Arcadian Wild - Man in Room 39"
 date: 2024-01-24 21:15:46 +1300
 categories:
-tags:
+tags: inspiration imagination journey change courage
 ---
 # I love the layers in this song
 
